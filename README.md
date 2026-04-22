@@ -26,4 +26,4 @@ FitAR is an augmented reality-based web application that allows users to virtual
 
 
 ## 🎥 Demo
-(Add video / Google Drive link here)
+(https://youtu.be/ANaAZlM54gY)
